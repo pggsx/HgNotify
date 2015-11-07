@@ -1,0 +1,5 @@
+<resources>
+    <string name="HgNotify">My Application</string>
+    <string name="Login">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
